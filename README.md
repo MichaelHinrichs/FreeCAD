@@ -54,6 +54,7 @@ For development releases check the [weekly-builds page](https://github.com/FreeC
 Other options are described at the [wiki Download page](https://wiki.freecad.org/Download).
 
 <a href='https://flathub.org/apps/org.freecadweb.FreeCAD'><img height='20' alt='Flathub' src='https://flathub.org/api/badge?locale=en'/></a>
+<a href='https://snapcraft.io/freecad'><img src="https://snapcraft.io/static/images/badges/en/snap-store-black.svg" alt="snap" height="20"/></a>
 
 Compiling
 ---------
