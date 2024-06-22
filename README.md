@@ -74,7 +74,7 @@ The pages below contain up-to-date build instructions:
 - [![Windows](https://img.shields.io/badge/Windows-blue?logo=Windows)](https://wiki.freecad.org/Compile_on_Windows)
 - [![macOS](https://img.shields.io/badge/macOS-blue?logo=apple&logoColor=whitesmoke)](https://wiki.freecad.org/Compile_on_MacOS)
 - [Cygwin](https://wiki.freecad.org/Compile_on_Cygwin)
-- [MinGW](https://wiki.freecad.org/Compile_on_MinGW)
+- [![minGW](https://img.shields.io/badge/minGW-blue?logo=minGW)](https://wiki.freecad.org/Compile_on_MinGW)
 
 
 Reporting Issues
