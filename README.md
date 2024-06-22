@@ -70,9 +70,9 @@ you will usually have to compile them yourself.
 
 The pages below contain up-to-date build instructions:
 
-- [Linux](https://wiki.freecad.org/Compile_on_Linux)
-- [Windows](https://wiki.freecad.org/Compile_on_Windows)
-- [macOS](https://wiki.freecad.org/Compile_on_MacOS)
+- [![Linux](https://img.shields.io/badge/Linux-blue?logo=Linux&logoColor=whitesmoke)](https://wiki.freecad.org/Compile_on_Linux)
+- [![Windows](https://img.shields.io/badge/Windows-blue?logo=Windows)](https://wiki.freecad.org/Compile_on_Windows)
+- [![macOS](https://img.shields.io/badge/macOS-blue?logo=apple&logoColor=whitesmoke)](https://wiki.freecad.org/Compile_on_MacOS)
 - [Cygwin](https://wiki.freecad.org/Compile_on_Cygwin)
 - [MinGW](https://wiki.freecad.org/Compile_on_MinGW)
 
