@@ -53,7 +53,7 @@ For development releases check the [weekly-builds page](https://github.com/FreeC
 
 Other options are described at the [wiki Download page](https://wiki.freecad.org/Download).
 
-<a href='https://flathub.org/apps/org.freecadweb.FreeCAD'><img width='60' alt='Flathub' src='https://flathub.org/api/badge?locale=en'/></a>
+<a href='https://flathub.org/apps/org.freecadweb.FreeCAD'><img height='20' alt='Flathub' src='https://flathub.org/api/badge?locale=en'/></a>
 
 Compiling
 ---------
