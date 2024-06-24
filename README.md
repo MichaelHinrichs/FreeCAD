@@ -55,7 +55,8 @@ Other options are described at the [wiki Download page](https://wiki.freecad.org
 
 <a href='https://flathub.org/apps/org.freecadweb.FreeCAD'><img height='20' alt='Flathub' src='https://flathub.org/api/badge?locale=en'/></a></br>
 <a href='https://snapcraft.io/freecad'><img src="https://snapcraft.io/static/images/badges/en/snap-store-black.svg" alt="snap" height="20"/></a></br>
-<a href='https://community.chocolatey.org/packages/freecad'><img alt="Chocolatey" src="https://img.shields.io/badge/chocolatey-FreeCAD-80B5E3?logo=chocolatey"></a> (not up-to-date)
+<a href='https://community.chocolatey.org/packages/freecad'><img alt="Chocolatey" src="https://img.shields.io/badge/chocolatey-FreeCAD-80B5E3?logo=chocolatey"></a> (not up-to-date)</br>
+<a href='https://scoop.sh/#/apps?q=FreeCAD&id=09474a4fe53bb0b390547f34b59f99ee0afe99d3'><img alt="Scoop Version" src="https://img.shields.io/scoop/v/freecad?bucket=extras"></a>
 
 Compiling
 ---------
